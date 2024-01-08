@@ -1,1 +1,10 @@
 # project_UAS
+# project uas
+NAMA : SENA SANIRA
+NIM : 312310606
+KELAS : TI.23.A.6
+MATA KULIAH : BAHASA PEMROGRAMAN
+
+
+KODE PROGRAM
+![gambar](UAS/UAS.png)
